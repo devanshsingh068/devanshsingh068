@@ -42,7 +42,7 @@
 
 ## 📈 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=devanshsingh068)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact)
 
@@ -63,8 +63,8 @@ A platform that provides:
 
 ## 📫 Connect With Me
 
-- GitHub: https://github.com/YOUR_USERNAME
-- LinkedIn: https://linkedin.com/in/YOUR_LINKEDIN_USERNAME
+- GitHub: https://github.com/devanshsingh068
+- LinkedIn: https://linkedin.com/in/devansh-singh-372182389?
 - Email:devanshsingh2400@gmail.com
 
 ---
